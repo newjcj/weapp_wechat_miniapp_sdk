@@ -1,19 +1,26 @@
 {
-  "name": "jiaweixs/weapp",
+  "name": "zhaojunlike/weapp_api",
   "description": "一个微信小程序服务端SDK，集成小程序服务端所有接口。A SDK of WeChat mini app.",
-  "keywords": ["wechat","miniapp","wechat app"],
+  "keywords": [
+    "wechat",
+    "miniapp",
+    "wechat app"
+  ],
   "license": "MIT",
   "authors": [
     {
       "name": "JiaweiXS",
       "email": "kurobafear@hotmail.com"
+    },
+    {
+      "name": "zhaojunlike",
+      "email": "godtoy@oeynet.com"
     }
   ],
   "require": {
-    "php": "^5.5.9 || ^7.0",
+    "php": "^5.4.30",
     "jiaweixs/simplecache": "*"
   },
-
   "autoload": {
     "psr-4": {
       "JiaweiXS\\WeApp\\": "src/"

@@ -1,10 +1,10 @@
 ## 安装
 ```
 //install by composer
-composer require jiaweixs/weapp
+composer require zhaojunlike/weapp
   
 //or clone from github
-git clone git@github.com:kulokai/weapp.git
+git clone https://github.com/zhaojunlike/weapp_wechat_miniapp_sdk.git
 ```
 
 ## 用法
