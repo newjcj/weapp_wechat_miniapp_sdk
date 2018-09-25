@@ -1,7 +1,7 @@
 ## 安装
 ```
 //install by composer
-composer require zhaojunlike/weapp
+composer require zhaojunlike/weapp_api
   
 //or clone from github
 git clone https://github.com/zhaojunlike/weapp_wechat_miniapp_sdk.git
