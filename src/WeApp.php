@@ -116,4 +116,20 @@ class WeApp
         $data = $result;
         return ErrorCode::$OK;
     }
+//
+//    const QRCODE_UNLIMIT_URL = 'https://api.weixin.qq.com/wxa/getwxacodeunlimit?access_token=';
+//
+//    /**
+//     * 获取QrCode
+//     * @author godtoy@oeynet.com
+//     * @date   2018/9/29
+//     * @param $scene
+//     * @param $page
+//     * @param array $options
+//     */
+//    public function qrcodeUnlimit($scene, $page, $options = [])
+//    {
+//
+//
+//    }
 }
